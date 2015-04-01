@@ -17,6 +17,7 @@ public class Convert {
 		
 		
 	}
+	
 	public static String text2num(String input) {
 		return "null";
 	}
